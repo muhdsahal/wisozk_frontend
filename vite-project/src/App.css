@@ -1,0 +1,32 @@
+
+.container {
+    position: relative;
+}
+
+.bottomright {
+
+
+    position: absolute;
+    bottom: 200px;
+    right: 16px;
+}
+
+.bottomleft {
+    position: absolute;
+    bottom: 19px;
+    left: 16px;
+}
+
+.bottomtoright {
+
+
+    position: relative;
+    bottom: 250px;
+    right: 16px;
+}
+/* 
+img {
+    width :17%;
+    height: 19%;
+
+} */
