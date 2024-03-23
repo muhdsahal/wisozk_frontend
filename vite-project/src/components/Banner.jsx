@@ -11,7 +11,8 @@ function Banner(props) {
   return (
     <div className="relative h-full max-w-screen-xxl">
       <img
-        src={props?.data?.banner_img}
+        // src={props?.data?.banner_img}
+        src={BannerImage}
         alt="image 3"
         className="h-full max-w-screen-xxl object-cover"
       />
